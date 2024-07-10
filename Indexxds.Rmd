@@ -1,0 +1,15 @@
+---
+title: "IndexDS"
+author: "Sriram"
+date: "2024-07-10"
+output: word_document
+---
+
+```{r}
+getwd()
+```
+
+````{r}
+read.csv("C:/Users/index.csv", header=T)
+````
+
